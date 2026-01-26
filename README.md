@@ -10,7 +10,7 @@ I am a seventh-semester Computer Science student at BINUS University with profes
 My experience includes implementing backend business logic, filtering and pagination for large datasets, and optimizing application performance using **SSR and streaming techniques**. I am passionate about developing scalable systems and continuously improving my engineering skills through real-world projects.
 
 📫 **Reach me at:** bellaapries0144@gmail.com  
-🔗 **Portfolio:** *Coming soon*  
+🔗 **Portfolio:** https://portfolio-bellaa144s-projects.vercel.app/ 
 💼 **LinkedIn:** https://linkedin.com/in/bella-apries-6580782b7  
 
 ---
