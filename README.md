@@ -35,9 +35,9 @@ I’m passionate about designing efficient systems, solving real-world problems,
 ---
 
 ## 📌 Featured Projects
-👉 *(WAJIB TAMBAH SECTION INI NANTI)*  
-- OmniKasir – Full Stack POS & E-commerce System  
-- (Tambahin 1–2 project lagi kalau ada)
+
+### OmniKasir – Full Stack POS System
+Built a POS and e-commerce integration system with real-time stock synchronization and optimized transaction processing.
 
 ---
 
